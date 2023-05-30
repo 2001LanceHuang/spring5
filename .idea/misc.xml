@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-config" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-dao" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-mapper" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis-quick" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-aop" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-jdbc" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-test" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-tx" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-tx-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_ioc" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_ioc_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-tx/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-tx-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-quick/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-config/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

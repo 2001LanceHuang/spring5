@@ -1,0 +1,14 @@
+# Project exclude paths
+/mybatis-config/target/
+/mybatis-dao/target/
+/mybatis-mapper/target/
+/mybatis-quick/target/
+/spring-aop/target/
+/spring-interceptor/target/
+/spring-jdbc/target/
+/spring-test/target/
+/spring-tx/target/
+/spring-tx-anno/target/
+/spring_ioc/target/
+/spring_ioc_anno/target/
+/spring_mvc/target/
